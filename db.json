@@ -2,26 +2,22 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Pindakaas van de AH"
     },
     {
       "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3!!"
+      "title": "Pindakaas van Jumbo"
     }
   ],
-  "comments": [
+  "ingedienten": [
     {
       "id": 1,
-      "body": "some comment",
+      "body": "ingredient A",
       "postId": 1
     },
     {
       "id": 2,
-      "body": "some comment 2!!",
+      "body": "ingredient B",
       "postId": 1
     }
   ],
